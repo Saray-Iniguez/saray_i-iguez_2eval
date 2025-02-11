@@ -1,0 +1,44 @@
+.fondo{
+    background-color: blanchedalmond;
+}
+
+div.azul{
+    background-color: lightskyblue;
+    text-align: center;
+}
+
+div.blanco{
+    background-color: white;
+}
+
+.oscuro{
+    color: blue;
+}
+
+p.rojo{
+    color: red;
+}
+
+span.amarillo{
+    background-color: yellow;
+}
+
+span.tachado{
+    text-decoration: line-through;
+}
+
+p.centro{
+    text-align: center;
+    font-weight: bold;
+}
+
+div.verde{
+    background-color: chartreuse;
+}
+
+header.centrado{
+    text-align: center;
+}
+
+
+
